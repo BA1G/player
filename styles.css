@@ -1,0 +1,32 @@
+body{
+    background-color:  #27a1ff;
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.player{
+margin: 200px;
+}
+
+.name{
+    font-family: "montserrat";
+    color: wheat;
+}
+
+
+.play-pause{
+    width: 250px;
+}
+
+
+.footer{
+    font-family: serif;
+    font-weight: 100;
+    color: white;
+}
+
